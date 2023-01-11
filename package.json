@@ -26,18 +26,10 @@
     "react-transition-group": "4.4.1"
   },
   "devDependencies": {
-    "@release-it/conventional-changelog": "^5.1.1",
-    "@svgr/webpack": "^6.5.1",
-    "autoprefixer": "^9.8.8",
-    "commitizen": "^4.2.6",
-    "cross-env": "7.0.2",
-    "cssnano": "4.1.10",
-    "cz-conventional-changelog": "3.2.0",
-    "postcss": "^7.0.39",
-    "postcss-cli": "7.1.1",
-    "react-axe": "3.5.2",
-    "release-it": "^15.6.0",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+    "autoprefixer": "^9.8.6",
+    "postcss": "^8.0.0",
+    "postcss-cli": "^8.1.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   },
   "keywords": [
     "dashboard",
